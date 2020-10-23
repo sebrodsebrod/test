@@ -1,0 +1,25 @@
+div {
+    font-size: 5em;
+}
+
+#Red {
+    /* Color Names */
+    backround-color:red;
+    height:16%;
+    width: 100p%;
+}
+
+#second {
+    background-color:green;
+    height: 16%;
+    margin-left:300px;
+    padding-left:100px;
+}
+
+#third {
+    backround-color:blue;
+    height:16%;
+    margin-left: 300%px;
+    padding-left: 100px;
+}
+

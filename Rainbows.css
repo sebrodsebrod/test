@@ -1,0 +1,13 @@
+.flexbox{
+    display: flex;
+    /*The flex-direction property defines in which direction the container wants to stack the flex items.*/
+    flex-direction: column, column-reverse, row, row-reverse;
+    /*The flex-wrap property specifies whether the flex items should wrap or not.*/
+    flex-wrap: wrap, nowrap, wrap-reverse;
+    /*The justify-content property is used to align the flex items horizontaly.*/
+    justify-content: center, flex-end, flex-start, space-around, space-between;
+    /*The align-items property is used to align the flex items height within a row.*/
+    align-items: center, flex-end, flex-start, baseline, stretch;
+    /*The align-content property is used to align the flex lines verticaly.*/
+    align-content: center, flex-end, flex-start, stretch, space-around, space-between;
+    }
